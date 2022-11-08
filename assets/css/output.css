@@ -525,7 +525,7 @@ canvas {
   position: absolute;
   width: 100%;
   height: 100%;
-  margin: -160px 0;
+  /* margin: -160px 0; */
 }
 
 .content{
@@ -551,4 +551,6 @@ canvas {
   margin: 26px 88px;
   width: 210px;
 }
+
+
 
